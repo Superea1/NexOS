@@ -1,3 +1,4 @@
+# NexOS
 Latest versions :
 
 NexOS WUP0003 : Added a working web browser
@@ -10,5 +11,3 @@ Integrated apps :
 
 NavigBack for NexOS (1.1)
 Nexplorer 1.0
-
-# NexOS
